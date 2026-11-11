@@ -295,6 +295,10 @@ h1 span {
 }
 .timeline-item p { margin: 6px 0 0; color: var(--muted); font-size: 15px; }
 
+/* ---------- Experience list ---------- */
+.exp-list { margin: 14px 0 0; padding-left: 18px; color: var(--ink-2); font-size: 15px; }
+.exp-list li { margin-bottom: 8px; padding-left: 4px; }
+
 /* ---------- Contact ---------- */
 .contact-section {
   margin-top: 96px; padding: 96px 0 80px; color: #cbd5e1;
